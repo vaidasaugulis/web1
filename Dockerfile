@@ -1,6 +1,6 @@
 FROM centos:centos6
 
-MAINTAINER evaldas@goexperior.com
+MAINTAINER evaldas@nonexistentemail.com
 
 # Enable EPEL for Node.js
 RUN rpm -Uvh http://download.fedoraproject.org/pub/epel/6/i386/epel-release-6-8.noarch.rpm
